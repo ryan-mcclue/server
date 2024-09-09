@@ -1,0 +1,5 @@
+# SPDX-License-Identifier: zlib-acknowledgement
+node_modules/
+tsconfig.tsbuildinfo
+*.map
+*~
